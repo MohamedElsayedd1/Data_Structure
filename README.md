@@ -1,6 +1,6 @@
-# Data Structure Implementations in C++
+# Data Structure Implementations in C
 
-This repository provides comprehensive implementations of essential data structures using C++. Each data structure is designed with a focus on efficiency and clarity, making it suitable for educational purposes and practical applications in software development. The following data structures are included:
+This repository provides comprehensive implementations of essential data structures using C. Each data structure is designed with a focus on efficiency and clarity, making it suitable for educational purposes and practical applications in software development. The following data structures are included:
 
 ### 1. **Stack (LIFO)**
    - Implemented using both arrays and linked lists, showcasing basic stack operations like `push()`, `pop()`, `peek()`, and stack traversal. This structure follows Last-In-First-Out behavior and is ideal for tasks like expression evaluation, backtracking, and undo operations.
